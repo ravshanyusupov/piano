@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+
+.App {
+  text-align: center;
+}
+
+#top-header{
+  color: white;
+  /*padding-top: 60px;*/
+}
+
+.App-header {
+  display: flex;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+}
+.top-letter{
+  display: flex;
+  justify-content: space-between;
+  width: 30%;
+  text-align: center;
+  margin-left: 35%;
+  color: white;
+}
